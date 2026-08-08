@@ -86,21 +86,142 @@ Currently, I'm expanding my skills in machine learning, SQL, statistics, and dat
 
 
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-🚲 Bike Rental Demand Prediction
+<table>
 
-🩺 Liver Disease Prediction
+<tr>
 
-🚦 Traffic Accident Prediction
+<td width="50%">
 
-📈 Sales Forecasting
+### 📈 Advanced AI Stock Prediction Dashboard
 
-📰 Fake News Detection
+An AI-powered dashboard that analyzes stock market trends, visualizes historical performance, and forecasts future prices using machine learning.
 
-📊 Tableau Dashboards
+**Tech Stack**
 
----
+Python • Streamlit • Pandas • Plotly • Machine Learning
+
+💻 **GitHub:** https://lnkd.in/d-zyi6XH
+
+🌐 **Live Demo:** https://lnkd.in/dKJWkWWs
+
+</td>
+
+<td width="50%">
+
+### 🩺 Liver Disease Stage Prediction
+
+A healthcare application that predicts liver disease stages using machine learning models through an interactive Streamlit interface.
+
+**Tech Stack**
+
+Python • Pandas • Scikit-Learn • Streamlit
+
+💻 **GitHub:** https://lnkd.in/gU-vTcSZ
+
+🌐 **Live Demo:** https://lnkd.in/g8AsDnrP
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🚲 Bike Rental Demand Prediction
+
+A regression-based machine learning project that predicts bike rental demand using weather and historical usage data.
+
+**Tech Stack**
+
+Python • Pandas • Regression • Streamlit
+
+💻 **GitHub:** https://lnkd.in/gZ_PDqPY
+
+🌐 **Live Demo:** https://lnkd.in/gSrK6i4q
+
+</td>
+
+<td width="50%">
+
+### 🚦 Road Accident Severity Prediction
+
+Predicts road accident severity using machine learning to identify key factors contributing to traffic accidents.
+
+**Tech Stack**
+
+Python • Pandas • Machine Learning • Streamlit
+
+💻 **GitHub:** https://lnkd.in/gkSa2rYY
+
+🌐 **Live Demo:** https://lnkd.in/gmbiPgU4
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧪 Research Projects
+
+### 🔬 CNN-Based Fingerprint Reconstruction (MATLAB)
+
+Research project focused on reconstructing partially masked fingerprints using convolutional neural networks and image processing techniques.
+
+**Highlights**
+
+- CNN-based image reconstruction
+- Artificial masking for forensic simulation
+- Evaluation using PSNR and SSIM
+- Analysis of reconstruction limitations
+- MATLAB implementation
+
+### 📰 Fake News Detection
+
+A Natural Language Processing project that classifies news articles as real or fake using machine learning.
+
+**Tech Stack**
+
+Python • NLP • Scikit-Learn • Streamlit
+
+🌐 **Live Demo:** https://lnkd.in/gHQ6dDN7
+
+</td>
+
+<td width="50%">
+
+### 👥 Customer Churn Prediction
+
+Developed a machine learning model to identify customers who are likely to leave a business by analyzing customer behavior, demographics, and service usage. The project includes exploratory data analysis, feature engineering, model evaluation, and an interactive Streamlit dashboard for real-time predictions.
+
+**Tech Stack**
+
+Python • Pandas • Scikit-Learn • Streamlit • Plotly
+
+💻 Repository: (GitHub Link)
+
+🌐 Live Demo: (Streamlit Link)
+
+### 📊 Tableau Dashboards
+
+Interactive business dashboards designed for KPI tracking, trend analysis, and decision-making.
+
+**Tech Stack**
+
+Tableau • SQL • Excel
+
+🚧 **Coming Soon**
+
+</td>
+
+</tr>
+
+</table>
+
 
 ## 📚 Currently Learning
 
