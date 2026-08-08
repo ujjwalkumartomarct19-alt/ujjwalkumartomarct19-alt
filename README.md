@@ -39,31 +39,52 @@ Currently, I'm expanding my skills in machine learning, SQL, statistics, and dat
 
 ## 🛠 Tech Stack
 
-### Programming
-- Python
-- SQL
-- R
+### 💻 Programming
 
-### Data Analysis
-- Pandas
-- NumPy
-- Excel
-
-### Machine Learning
-- Scikit-Learn
-- XGBoost
-
-### Visualization
-- Tableau
-- Matplotlib
-- Plotly
-
-### Deployment
-- Streamlit
-- Git
-- GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=r" height="45"/>
+</p>
 
 ---
+
+### 📊 Data Analysis
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" />
+</p>
+
+- **Excel**
+
+---
+
+### 🤖 Machine Learning
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" />
+</p>
+
+- **XGBoost**
+
+---
+
+### 📈 Visualization
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,plotly,tableau" />
+</p>
+
+---
+
+### 🚀 Deployment & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit,git,github,vscode" height="45"/>
+</p>
+
+
+
 
 ## 📂 Featured Projects
 
@@ -89,13 +110,23 @@ Currently, I'm expanding my skills in machine learning, SQL, statistics, and dat
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
-LinkedIn:
-(www.linkedin.com/in/ujjwalkumar-tomar)
+<p align="center">
 
-Email:
-(ujjwalkumartomar.ct19@gmail.com)
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/ujjwalkumartomarct19-alt">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
 
 
 <!--
