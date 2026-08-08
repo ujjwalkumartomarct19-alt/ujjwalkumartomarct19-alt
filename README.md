@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Tomar</h1>
+<h1 align="center">Hi 👋, I'm Ujjwal kumar Tomar</h1>
 
 <h3 align="center">
 Turning ideas into practical solutions with data, code, and curiosity.
