@@ -19,6 +19,27 @@ Over the past year, I've worked on projects in healthcare, forecasting, and pred
 Currently, I'm expanding my skills in machine learning, SQL, statistics, and data visualization while building projects that reflect real-world business and analytical challenges.
 
 ---
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ujjwalkumartomarct19-alt&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkumartomarct19-alt&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ujjwalkumartomarct19-alt&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Ujjwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjwalkumartomarct19-alt&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠 Tech Stack
 
@@ -67,7 +88,6 @@ Currently, I'm expanding my skills in machine learning, SQL, statistics, and dat
 ## 📚 Currently Learning
 
 - Advanced SQL
-- Statistics
 - Feature Engineering
 - MLOps
 
