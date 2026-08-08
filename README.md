@@ -1,4 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ujjwal Tomar</h1>
+
+<h3 align="center">
+Turning ideas into practical solutions with data, code, and curiosity.
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Tableau;Always+Learning+Something+New" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm Ujjwal, and I enjoy working with data to understand problems and build practical solutions.
+
+Over the past year, I've worked on projects in healthcare, forecasting, and predictive analytics. I like exploring datasets, finding patterns, and turning ideas into applications that people can actually use.
+
+Currently, I'm expanding my skills in machine learning, SQL, statistics, and data visualization while building projects that reflect real-world business and analytical challenges.
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+- Python
+- SQL
+- R
+
+### Data Analysis
+- Pandas
+- NumPy
+- Excel
+
+### Machine Learning
+- Scikit-Learn
+- XGBoost
+
+### Visualization
+- Tableau
+- Matplotlib
+- Plotly
+
+### Deployment
+- Streamlit
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+🚲 Bike Rental Demand Prediction
+
+🩺 Liver Disease Prediction
+
+🚦 Traffic Accident Prediction
+
+📈 Sales Forecasting
+
+📰 Fake News Detection
+
+📊 Tableau Dashboards
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Statistics
+- Feature Engineering
+- MLOps
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:
+(www.linkedin.com/in/ujjwalkumar-tomar)
+
+Email:
+(ujjwalkumartomar.ct19@gmail.com)
+
 
 <!--
 **ujjwalkumartomarct19-alt/ujjwalkumartomarct19-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
